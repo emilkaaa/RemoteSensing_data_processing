@@ -1,0 +1,13 @@
+rasterio
+geopandas
+xarray
+pandas
+numpy
+scikit-image
+scipy
+matplotlib
+shapely
+requests
+tqdm
+pystac-client
+ipykernel
